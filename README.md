@@ -39,7 +39,7 @@ A comprehensive electric vehicle maintenance management system developed as part
 
 **Tech Stack:** Spring Boot, PostgreSQL, RESTful API
 
-[View Project →](https://github.com/Khangla123/ev-service-management)
+[View Project →](https://github.com/Khangla123/EV-Service-Center-Maintenance-Management-System---BE)
 
 ---
 
@@ -66,7 +66,7 @@ I'm seeking a **FullStack Developer internship** where I can:
 
 📧 **Email:** khanglvse182864@fpt.edu.vn  
 💼 **GitHub:** [github.com/Khangla123](https://github.com/Khangla123)  
-🔗 **LinkedIn:** [linkedin. com/in/yourprofile](https://linkedin.com/in/yourprofile)
+
 
 ---
 
